@@ -1,0 +1,48 @@
+{
+  "crops": [
+    {
+      "cid": "c2",
+      "crop_name": "ASDA",
+      "area": "23",
+      "area_unit": "Perches",
+      "desc": "32e2",
+      "frequent": "every",
+      "frequent_days": "23",
+      "motor": "m2",
+      "water": {
+        "1": {
+          "time": "06:00",
+          "litre": "23"
+        }
+      }
+    },
+    {
+      "cid": "c6",
+      "crop_name": "wef",
+      "area": "342",
+      "area_unit": "Acres",
+      "desc": "asfaasd",
+      "frequent": "daily",
+      "frequent_days": "1",
+      "motor": "m1",
+      "water": [
+        {
+          "time": "06:00",
+          "litre": "243"
+        },
+        {
+          "time": "08:00",
+          "litre": "234"
+        },
+        {
+          "time": "10:00",
+          "litre": "897"
+        },
+        {
+          "time": "00:00",
+          "litre": "6"
+        }
+      ]
+    }
+  ]
+}

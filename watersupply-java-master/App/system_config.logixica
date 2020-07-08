@@ -1,0 +1,7 @@
+#Sun Jan 14 23:37:15 IST 2018
+ServerPath=http\://localhost:8080/watersupply
+ActivationKey=ActivationKey
+User=Username
+
+#Log duration in minutes
+LogDuration=1

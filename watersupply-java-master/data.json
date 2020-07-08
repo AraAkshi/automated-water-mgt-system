@@ -1,0 +1,60 @@
+{
+  "motors": [
+    {
+      "m_id": "m1",
+      "m_name": "Servo SG90 1",
+      "m_desc": "TowerPro MicroServo 9g SG90",
+      "flowrate": "0.5",
+      "m_angle": "60",
+      "m_code": "a"
+    },
+    {
+      "m_id": "m2",
+      "m_name": "Servo SG90 2",
+      "m_desc": "TowerPro MicroServo 9g SG90",
+      "flowrate": "0.0041",
+      "m_angle": "80",
+      "m_code": "b"
+    },
+    {
+      "m_id": "m3",
+      "m_name": "Mx",
+      "m_desc": "dfg",
+      "flowrate": "5",
+      "m_angle": "91",
+      "m_code": "c"
+    }
+  ],
+  "crops": [
+    {
+      "cid": "c3",
+      "crop_name": "Capsicum 234",
+      "area": "23",
+      "area_unit": "Perches",
+      "desc": "Big 43w ExtremeOne",
+      "frequent_days": "1",
+      "motor": "m1",
+      "water": [
+        {
+          "time": "06:58:30",
+          "litre": "15"
+        }
+      ]
+    },
+    {
+      "cid": "c4",
+      "crop_name": "Chilli",
+      "area": "12",
+      "area_unit": "Perches",
+      "desc": "Big chilli red a",
+      "frequent_days": "1",
+      "motor": "m2",
+      "water": [
+        {
+          "time": "11:00:06",
+          "litre": "12"
+        }
+      ]
+    }
+  ]
+}

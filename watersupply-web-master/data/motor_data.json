@@ -1,0 +1,18 @@
+{
+  "motors": [
+    {
+      "m_id": "m1",
+      "m_name": "Servo 5x",
+      "m_desc": "ASDAD",
+      "flowrate": "12",
+      "m_angle": "23"
+    },
+    {
+      "m_id": "m2",
+      "m_name": "ALkaline32",
+      "m_desc": "HP123",
+      "flowrate": "12",
+      "m_angle": "32"
+    }
+  ]
+}
